@@ -1,5 +1,6 @@
 plugins {
     kotlin("jvm") version "1.4.31"
+    id("ru.ileasile.kotlin.keywords.generator")
 }
 
 group = "ru.ileasile.kotlin"
